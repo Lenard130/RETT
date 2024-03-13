@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>TriClock Lamp</title>
+</head>
+<body>
+    <header>
+        <h1>TriClock Lamp</h1>
+        <nav>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#order">Order</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="features">
+            <h2>Features</h2>
+            <ul>
+                <li>Digital Clock Excellence: Immerse yourself in the accuracy of our built-in digital clock, displaying time with clarity and precision.</li>
+                <li>Seamless Triangular Design: Embrace simplicity with the clean and stylish triangular shape of the TriClock Lamp.</li>
+                <li>Uniform White Illumination: Enjoy a soothing and constant white light that enhances your space with a gentle glow.</li>
+                <li>Effortless Elegance: The TriClock Lamp is not just a timepiece; it's a statement of timeless elegance.</li>
+                <li>Compact and Space-Saving: Designed to fit seamlessly into your life, the TriClock Lamp is compact and space-saving.</li>
+                <li>Versatile Elegance: Whether on a bedside table, desk, or shelf, the TriClock Lamp effortlessly elevates the ambiance of any room.</li>
+            </ul>
+        </section>
+        <section id="order">
+            <h2>Order Yours Today!</h2>
+            <p>Visit <a href="https://www.yourwebsite.com">YourWebsite.com</a> or call [Your Contact Number] for more information.</p>
+            <img src="product-image.jpg" alt="TriClock Lamp">
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2022 TriClock Lamp. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+header h1 {
+    display: inline;
+}
+
+nav ul {
+    display: inline;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+nav ul li a:hover {
+    color: #000;
+}
+
+h2 {
+    color: #000;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
